@@ -1,5 +1,4 @@
-# ItInovation
-# Tools for generate xml in wsdl file.
+# Tools for transform xml in wsdl file.
 
 #xml structure:
 
