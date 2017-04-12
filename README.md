@@ -1,6 +1,6 @@
 # Tools for transform xml in wsdl file.
 
-#xml structure:
+xml structure:
 
 <content>
   <fields name="University">
